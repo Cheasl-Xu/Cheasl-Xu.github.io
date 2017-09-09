@@ -1,7 +1,7 @@
 .page-view{
 	text-align:center;
 	height:auto;
-	padding:100px;
+	padding:100px 0;
 	color:#fff;
   background: url(./image/top.jpg) no-repeat center top #075498;
 }
