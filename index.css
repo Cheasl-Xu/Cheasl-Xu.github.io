@@ -2,6 +2,8 @@
 	text-align:center;
 	height:auto;
 	padding:100px;
+	color:#fff;
+  background: url(./image/top.jpg) no-repeat center top #075498;
 }
 h2{
 	text-align:center;
