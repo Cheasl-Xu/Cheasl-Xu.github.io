@@ -1,0 +1,78 @@
+.page-view{
+	text-align:center;
+	height:auto;
+	padding:100px;
+}
+h2{
+	text-align:center;
+}
+.body{
+	 width: 800px;
+	 padding:0 50px;
+	 display:inline-block;
+	 border:1px solid #e6e6e6;
+	 text-align: initial;
+}
+.flex-wrap{
+	display:flex;
+}
+.flex{
+	flex:1;
+}
+.image{
+	width:100px;
+	background-color: #e4393c;
+}
+.info-item {
+	height:40px;
+	line-height:40px;
+}
+.mask{
+	margin :20px 0;
+	width:100%;
+	height:10px;
+	background-color:#999;
+}
+.project h3{
+	margin:10px 0;
+}
+.project-item{
+	margin-bottom:20px;
+}
+.project-title{
+	font-size:18px;
+	display:inline-block;
+	position: relative;
+}
+.project-title:before{
+	position:absolute;
+	left:-20px;
+}
+.project-title1:before{
+	content:'1';
+}
+.project-title2:before{
+	content:'2';
+}
+.project-title3:before{
+	content:'3';
+}
+.project-info{
+	margin-top:15px;
+}
+.project-brief{
+	font-size: 15px;
+	line-height:20px;
+}
+.company-item{
+	line-height: 25px;
+}
+.evaluation{
+	margin-bottom:20px;
+}
+.evaluation-brief{
+	text-indent:2em;
+}
+div{
+	box-sizing:border-box
+}
