@@ -7,6 +7,9 @@ h2{
 div{
 	box-sizing:border-box
 }
+a{
+	color:#c7dcce;
+}
 .page-view{
 	text-align:center;
 	height:auto;
