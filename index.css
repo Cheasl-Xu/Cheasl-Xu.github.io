@@ -84,3 +84,9 @@ a{
 .evaluation-brief{
 	text-indent:2em;
 }
+.skill-brief{
+	line-height:25px;
+}
+.skill{
+	margin-bottom:50px;
+}
